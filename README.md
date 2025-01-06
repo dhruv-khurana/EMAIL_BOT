@@ -27,7 +27,7 @@ It creates an email message with the personalized content, subject, sender, and 
 It sends the email message.
 
 ## Example
-When prompted, enter the following details:
+### When prompted, enter the following details:
 
 * Path to the text file containing the email content. (use txtfile.txt as an example)
 * Path to the CSV file containing the list of companies and emails. (use mycsv.csv as an example)
