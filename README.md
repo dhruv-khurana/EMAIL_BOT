@@ -35,7 +35,7 @@ It sends the email message.
 * Subject of the email.
 * [Password](https://stackoverflow.com/questions/72480454/sending-email-with-python-google-disables-less-secure-apps)
 
-* for filepaths to text and csv files: enter double backslash ( \\ ) instead of single backslash in the file path eg. C:\\Program Files\\Python...
+#### for filepaths to text and csv files: enter double backslash ( // ) instead of single backslash in the file path eg. C:\\Program Files\\Python...
 ## Requirements
 * Python 3.x  
 * pandas  
