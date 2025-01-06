@@ -3,8 +3,8 @@ from email.message import EmailMessage
 import pandas as pd
 
 # Define file paths for the text file and CSV file, input email details and email subjects
-file_path = input("Enter the path of the text file containing the email you want to send: ")
-csv_path = input("Enter the path of the CSV file containing the list of companies and emails: ")
+file_path = input("Enter the path of the text file containing the email you want to send \n (enter double backslash \\ instead of single backslash in the file path eg. C:\\Program Files\\Python...    : \n ")
+csv_path = input("Enter the path of the CSV file containing the list of companies and emails: \n (enter double backslash \\ instead of single backslash in the file path eg. C:\\Program Files\\Python...    : \n")
 email = input("Enter the email address you want to send the emails from: ")
 subject = input("Enter the subject of the email: ")
 password = input("Enter the password for the email address: ")
