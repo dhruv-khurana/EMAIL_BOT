@@ -1,0 +1,3 @@
+hi {company_name},
+
+i am writing to you because...
